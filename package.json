@@ -11,6 +11,9 @@
     "eject": "react-scripts eject",
     "nc": "new-component"
   },
+
+  "proxy": "http://localhost:5678",
+
   "eslintConfig": {
     "extends": "react-app"
   },
